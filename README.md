@@ -1,13 +1,8 @@
 # PowerBi
-Tableros de Control
+Tablero de Control
 
-Elegir el archivo “Product Details.xlsx”, seleccionar “TablaProductDetails” y cargarlo.
-Elegir archivo “Global Superstore.csv” y transformar datos.
-Se verifica que todos los tipos de datos sean correctos desde Power Query.
-Desde Power Desktop:
-A la columna País: Colocarla en categoría País (Country).
-Acomodar la estética de las columnas con números (separador de miles, fechas en formato “dd/mm/aa”, etc.)
-Validar relación entre Product Details y Global Superstore.
+Se realizan varias visualizaciónes con los datos suministrados de una empresa del rubro "articulos de oficina".
+La misma consiste en transformar datos y verificar que sean correctos desde Power Query,ademas acomadar la estetica de las tablas y relacionarlas entre si para lograr las visualizaciones con la infomación relevante en Ventas y Ganacias.
 
 Visualizaciones:
  Ganancias por categoría y subcategoría (Diagrama de Árbol).
