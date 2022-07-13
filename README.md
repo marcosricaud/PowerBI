@@ -1,7 +1,7 @@
 # PowerBi
 Tablero de Control
 
-Se realizan varias visualizaciónes con los datos suministrados de una empresa del rubro "articulos de oficina".
+Se realizan varias visualizaciónes con los datos suministrados por una empresa del rubro "articulos de oficina".
 La misma consiste en transformar datos y verificar que sean correctos desde Power Query,ademas acomadar la estetica de las tablas y relacionarlas entre si para lograr las visualizaciones con la infomación relevante en Ventas y Ganacias.
 
 Visualizaciones:
